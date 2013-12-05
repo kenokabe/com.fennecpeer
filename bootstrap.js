@@ -86,7 +86,7 @@ var unloadFromWindow = function(window)
   {
     window.NativeWindow.menu.remove(gToastMenuId);
     window.NativeWindow.menu.remove(gDoorhangerMenuId);
-    window.NativeWindow.contextmenus.remove(gContextMenuId);
+    //window.NativeWindow.contextmenus.remove(gContextMenuId);
   }
 }
 

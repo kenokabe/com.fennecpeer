@@ -2,9 +2,9 @@
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
 
     <Description about="urn:mozilla:install-manifest">
-        <em:id>com.fennecpeer</em:id>
+        <em:id>com.fennecpeer@me</em:id>
         <em:type>2</em:type>
-        <em:name>com.fennecpeer</em:name>
+        <em:name>com.fennecpeer@me</em:name>
         <em:version>1.0</em:version>
         <em:bootstrap>true</em:bootstrap>
         <em:description>fennecpeer</em:description>
